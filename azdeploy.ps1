@@ -6,7 +6,7 @@
 $resourceGroup = "react-rg"
 $location = "eastus"
 $staticWebAppName = "reacthelloworld$(Get-Random)"
-$repoUrl = "https://github.com/Azure-Samples/js-e2e-express-server" 
+$repoUrl = "https://github.com/cosmicmuse666/azdeploy1211.git" 
 $branch = "main"
 
 Write-Host "Creating resource group..." -ForegroundColor Green
